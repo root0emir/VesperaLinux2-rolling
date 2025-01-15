@@ -1,4 +1,4 @@
-# VesperaLinux1.8
+# VesperaLinux2
 debian based linux distrobution with gnome desktop - still on development - I am building with debian live-build - 100% open source
 
 ![Ekran görüntüsü_2025-01-15_14-33-14](https://github.com/user-attachments/assets/7d7ebd83-a94f-4a1d-94a1-d7fe2a9a54f2)
