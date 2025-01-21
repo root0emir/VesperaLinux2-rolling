@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Default theme for Vespera Linux
+Description=An Vespera theme by root0emir
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/emerald/theme.png
+ScriptFile=/usr/share/plymouth/themes/emerald/emerald.script

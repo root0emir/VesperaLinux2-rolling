@@ -1,0 +1,39 @@
+---
+componentName:   debian
+welcomeStyleCalamares: true
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowSize: 800px,580px
+windowPlacement: center
+
+strings:
+    productName:         Vespera Linux 2
+    shortProductName:    Vespera
+    version:             2
+    shortVersion:        2
+    versionedName:       Vespera Linux 2
+    shortVersionedName:  Vespera 2
+    bootloaderEntryName: Vespera 2
+    productUrl:          https://debian.org
+    supportUrl:          https://www.debian.org/support
+    knownIssuesUrl:      https://bugs.debian.org
+    releaseNotesUrl:     https://www.debian.org/releases/bookworm/releasenotes
+    donateUrl:           https://www.debian.org
+
+sidebar: widget
+navigation: widget
+
+images:
+    productLogo:         "vespera-logo.png"
+    productIcon:         "vespera-logo.png"
+    productWelcome:      "welcom.png"
+
+slideshow:               "show.qml"
+
+style:
+   SidebarBackground:    "#0e002b"
+   SidebarText:          "#FFFFFF"
+   SidebarTextCurrent:   "#fbfbfb"
+   SidebarBackgroundCurrent: "#265370"
+
+slideshowAPI: 2
