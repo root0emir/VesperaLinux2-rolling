@@ -1,5 +1,5 @@
 # VesperaLinux2
-Vespera Linux is a Debian (Testing) based Linux distribution developed for daily use with a GNOME desktop environment and optimized for gaming.
+Vespera Linux is a Debian (Testing) based Linux distribution developed for daily use with a GNOME desktop environment.
 ---
 https://drive.google.com/file/d/1PzESisS9LfDgskknyY-kRurHXlifyMTa/view?usp=drive_link
 ----
